@@ -1,33 +1,49 @@
 <script lang="ts" setup>
 import links from '../assets/links.json';
+import {computed} from "vue";
+
+type Props = {
+  sortByCategory: string | null;
+}
+
+const props = defineProps<Props>();
+
+const sortedLinks = computed(() => {
+  if (!props.sortByCategory) {
+    return links;
+  }
+
+  return links.filter((link) => link.type === props.sortByCategory)
+})
 </script>
 
 <template>
-  <div>
-    <v-container fluid>
-      <v-row>
-        <v-col
-          v-for="link in links"
-          :key="link.name"
-          cols="12"
-          sm="4"
-          md="3"
-          class="d-flex"
+  <v-container
+    fluid
+    style="max-width: 1280px"
+  >
+    <v-row>
+      <v-col
+        v-for="link in sortedLinks"
+        :key="link.name"
+        cols="12"
+        sm="4"
+        md="3"
+        class="d-flex"
+      >
+        <v-card
+          :href="link.url"
+          target="_blank"
+          class="d-flex align-center justify-center text-center elevation-5 rounded-lg"
+          style="width: 100%; height: 100px;"
         >
-          <v-card
-            :href="link.url"
-            target="_blank"
-            class="d-flex align-center justify-center text-center elevation-5 rounded-lg"
-            style="width: 100%; height: 100px;"
-          >
-            <v-card-text class="text-body-1">
-              {{ link.name }}
-            </v-card-text>
-          </v-card>
-        </v-col>
-      </v-row>
-    </v-container>
-  </div>
+          <v-card-text class="text-body-1">
+            {{ link.name }}
+          </v-card-text>
+        </v-card>
+      </v-col>
+    </v-row>
+  </v-container>
 </template>
 
 <style scoped>
