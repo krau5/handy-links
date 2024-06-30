@@ -1,12 +1,12 @@
 <script lang="ts" setup>
-import { ref } from "vue";
+import { ref } from 'vue';
 import LinksList from './components/LinksList.vue';
 import Categories from './components/Categories.vue';
 import Cover from './components/Cover.vue';
 
-const categories = ['learning', 'repo', 'article']
+const categories = ['learning', 'repo', 'article'];
 
-const category = ref<string | null>(null)
+const category = ref<string | null>(null);
 
 const handleClick = (newCategory: string) => {
   if (category.value === newCategory) {

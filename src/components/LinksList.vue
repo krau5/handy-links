@@ -1,6 +1,6 @@
 <script lang="ts" setup>
+import { computed } from 'vue';
 import links from '../assets/links.json';
-import {computed} from "vue";
 
 type Props = {
   sortByCategory: string | null;
@@ -13,8 +13,8 @@ const sortedLinks = computed(() => {
     return links;
   }
 
-  return links.filter((link) => link.type === props.sortByCategory)
-})
+  return links.filter((link) => link.type === props.sortByCategory);
+});
 </script>
 
 <template>
@@ -55,5 +55,4 @@ const sortedLinks = computed(() => {
   transform: scale(1.05);
 }
 </style>
-
 

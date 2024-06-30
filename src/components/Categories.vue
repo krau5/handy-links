@@ -31,8 +31,8 @@ const formatCategoryName = (category: string) => {
       v-for="category in categories"
       :key="category"
       :value="category"
-      @click="handleCategoryClick(category)"
       style="outline: none; box-shadow: none !important"
+      @click="handleCategoryClick(category)"
     >
       {{ formatCategoryName(category) }}
     </v-tab>
