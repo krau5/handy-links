@@ -13,7 +13,7 @@ const sortedLinks = computed(() => {
     return links;
   }
 
-  return links.filter((link) => link.type === props.sortByCategory);
+  return links.filter((link) => link.category === props.sortByCategory);
 });
 </script>
 
