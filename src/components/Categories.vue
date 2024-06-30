@@ -3,7 +3,7 @@ import { ref } from 'vue';
 
 type Props = {
   categories: string[];
-  selectedCategory: string | null;
+  selectedCategory: string;
   onClick: (category: string) => void;
 }
 
@@ -24,7 +24,6 @@ const formatCategoryName = (category: string) => {
 
 <template>
   <v-tabs
-    v-model="selectedCategory"
     bg-color="primary"
   >
     <v-tab
@@ -32,6 +31,7 @@ const formatCategoryName = (category: string) => {
       :key="category"
       :value="category"
       style="outline: none; box-shadow: none !important"
+      optional
       @click="handleCategoryClick(category)"
     >
       {{ formatCategoryName(category) }}

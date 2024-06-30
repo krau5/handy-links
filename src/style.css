@@ -18,8 +18,21 @@ a {
   color: #646cff;
   text-decoration: inherit;
 }
-a:hover {
-  color: #535bf2;
+
+@media (hover: hover) {
+  a:hover {
+    color: #535bf2;
+  }
+}
+
+html {
+  overflow: hidden;
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  overflow: auto;
 }
 
 body, #app {

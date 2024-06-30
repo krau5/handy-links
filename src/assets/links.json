@@ -1,97 +1,147 @@
 [
   {
-    "name": "Finally Fix Your Issues With JS/React Memory Management (YT)",
+    "name": "Finally Fix Your Issues With JS/React Memory Management",
     "url": "https://www.youtube.com/watch?v=qERgb3pWfu0",
-    "type": "learning"
+    "category": "learning"
   },
   {
     "name": "Why I Like React (even in 2024)",
     "url": "https://ejosh.co/de/2024/03/why-i-like-react-even-in-2024/?ck_subscriber_id=2616749842",
-    "type": "article"
+    "category": "articles"
   },
   {
     "name": "17 Libraries You Should Know if You Build with React",
     "url": "https://dev.to/copilotkit/libraries-you-should-know-if-you-build-with-react-1807",
-    "type": "article"
+    "category": "articles"
   },
   {
     "name": "You Need Better Resume Projects",
     "url": "https://www.youtube.com/watch?v=dIDYZe8YG5g",
-    "type": "learning"
+    "category": "learning"
   },
   {
     "name": "Learn how to Automate Your Boring Tasks. No-Code Automation, Full Course",
     "url": "https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/",
-    "type": "learning"
+    "category": "learning"
   },
   {
     "name": "OpenDevin",
     "url": "https://github.com/OpenDevin/OpenDevin",
-    "type": "repo"
+    "category": "tools"
   },
   {
     "name": "Learning Go in 2024, from beginner to senior",
     "url": "https://www.bytesizego.com/blog/learning-golang-2024",
-    "type": "learning"
+    "category": "learning"
   },
   {
     "name": "Folder structures in React projects",
     "url": "https://dev.to/itswillt/folder-structures-in-react-projects-3dp8",
-    "type": "learning"
+    "category": "learning"
   },
   {
     "name": "8 mental anti-patterns preventing you from becoming a 10x software developer",
     "url": "https://medium.com/thestartuplifer/8-mental-anti-patterns-preventing-you-from-becoming-a-10x-software-developer-part-1-94f9478adf8e",
-    "type": "article"
+    "category": "articles"
   },
   {
     "name": "12 tips from a mid-level developer",
     "url": "https://dev.to/abbeyperini/12-tips-from-a-mid-level-developer-29bk",
-    "type": "article"
+    "category": "articles"
   },
   {
     "name": "Session-Based vs. Token-Based Authentication: Which is better?",
     "url": "https://dev.to/fidalmathew/session-based-vs-token-based-authentication-which-is-better-227o",
-    "type": "article"
+    "category": "articles"
   },
   {
     "name": "Measuring personal growth",
     "url": "https://huyenchip.com/2024/04/17/personal-growth.html",
-    "type": "article"
+    "category": "articles"
   },
   {
     "name": "Self-hosted is awesome",
     "url": "https://pixeljets.com/blog/self-hosted-is-awesome/",
-    "type": "article"
+    "category": "articles"
   },
   {
     "name": "What is Clean Architecture?",
     "url": "https://newsletter.techworld-with-milan.com/p/what-is-clean-architecture",
-    "type": "article"
+    "category": "articles"
   },
   {
     "name": "Distracting software engineers is much more harmful than you think",
     "url": "https://zaidesanton.substack.com/p/the-biggest-problem-in-todays-work",
-    "type": "article"
+    "category": "articles"
   },
   {
     "name": "You're not a software engineer; you're a \"frameworker\"",
     "url": "https://dev.to/themuneebh/youre-not-a-software-engineer-youre-a-frameworker-3bkk",
-    "type": "article"
+    "category": "articles"
   },
   {
     "name": "Scope, not titles",
     "url": "https://www.developing.dev/p/scope-not-titles",
-    "type": "article"
+    "category": "articles"
   },
   {
     "name": "Dokploy",
     "url": "https://github.com/Dokploy/dokploy",
-    "type": "repo"
+    "category": "tools"
   },
   {
     "name": "API Design 101",
     "url": "https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886",
-    "type": "learning"
+    "category": "learning"
+  },
+  {
+    "name": "urql",
+    "url": "https://github.com/urql-graphql/urql",
+    "category": "tools"
+  },
+  {
+    "name": "urql",
+    "url": "https://github.com/urql-graphql/urql",
+    "category": "tools"
+  },
+  {
+    "name": "Mithril",
+    "url": "https://github.com/MithrilJS/mithril.js",
+    "category": "tools"
+  },
+  {
+    "name": "Llama 2",
+    "url": "https://ai.meta.com/llama/",
+    "category": "tools"
+  },
+  {
+    "name": "XState",
+    "url": "https://github.com/statelyai/xstate",
+    "category": "tools"
+  },
+  {
+    "name": "Qwik",
+    "url": "https://github.com/BuilderIO/qwik",
+    "category": "tools"
+  },
+  {
+    "name": "Mitosis",
+    "url": "https://github.com/BuilderIO/mitosis",
+    "category": "tools"
+  },
+  {
+    "name": "Nue",
+    "url": "https://github.com/nuejs/nue",
+    "category": "tools"
+  },
+  {
+    "name": "Zustand",
+    "url": "https://github.com/pmndrs/zustand",
+    "category": "tools"
+  },
+  {
+    "name": "Frontend Architecture at Scale for Large Organizations",
+    "url": "https://medium.com/swlh/frontend-architecture-in-scale-for-large-organizations-593930ed10cd",
+    "category": "articles"
   }
 ]
