@@ -20,7 +20,9 @@ import links from '../assets/links.json';
             class="d-flex align-center justify-center text-center elevation-5 rounded-lg"
             style="width: 100%; height: 100px;"
           >
-            <v-card-text class="text-body-1">{{ link.name }}</v-card-text>
+            <v-card-text class="text-body-1">
+              {{ link.name }}
+            </v-card-text>
           </v-card>
         </v-col>
       </v-row>
@@ -32,6 +34,7 @@ import links from '../assets/links.json';
 .v-card {
   transition: transform 0.2s;
 }
+
 .v-card:hover {
   transform: scale(1.05);
 }
