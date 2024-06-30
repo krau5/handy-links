@@ -3,13 +3,13 @@ import { computed } from 'vue';
 import links from '../assets/links.json';
 
 type Props = {
-  sortByCategory: string | null;
+  sortByCategory: string;
 }
 
 const props = defineProps<Props>();
 
 const sortedLinks = computed(() => {
-  if (!props.sortByCategory) {
+  if (props.sortByCategory === 'all') {
     return links;
   }
 
@@ -47,12 +47,13 @@ const sortedLinks = computed(() => {
 </template>
 
 <style scoped>
-.v-card {
-  transition: transform 0.2s;
-}
+@media (hover: hover) {
+  .v-card {
+    transition: transform 0.2s;
+  }
 
-.v-card:hover {
-  transform: scale(1.05);
+  .v-card:hover {
+    transform: scale(1.05);
+  }
 }
 </style>
-

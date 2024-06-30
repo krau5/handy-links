@@ -4,16 +4,11 @@ import LinksList from './components/LinksList.vue';
 import Categories from './components/Categories.vue';
 import Cover from './components/Cover.vue';
 
-const categories = ['learning', 'repo', 'article'];
+const categories = ['all', 'learning', 'tools', 'articles'];
 
-const category = ref<string | null>(null);
+const category = ref('all');
 
 const handleClick = (newCategory: string) => {
-  if (category.value === newCategory) {
-    category.value = null;
-    return;
-  }
-
   category.value = newCategory;
 };
 </script>
@@ -33,4 +28,3 @@ const handleClick = (newCategory: string) => {
 
   <LinksList :sort-by-category="category" />
 </template>
-
