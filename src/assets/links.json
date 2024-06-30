@@ -138,5 +138,10 @@
     "name": "Zustand",
     "url": "https://github.com/pmndrs/zustand",
     "category": "tools"
+  },
+  {
+    "name": "Frontend Architecture at Scale for Large Organizations",
+    "url": "https://medium.com/swlh/frontend-architecture-in-scale-for-large-organizations-593930ed10cd",
+    "category": "articles"
   }
 ]
