@@ -100,18 +100,13 @@
     "category": "tools"
   },
   {
-    "name": "urql",
-    "url": "https://github.com/urql-graphql/urql",
-    "category": "tools"
-  },
-  {
     "name": "Mithril",
     "url": "https://github.com/MithrilJS/mithril.js",
     "category": "tools"
   },
   {
     "name": "Llama 2",
-    "url": "https://ai.meta.com/llama/",
+    "url": "https://github.com/ollama/ollama",
     "category": "tools"
   },
   {
