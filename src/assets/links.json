@@ -138,5 +138,15 @@
     "name": "Frontend Architecture at Scale for Large Organizations",
     "url": "https://medium.com/swlh/frontend-architecture-in-scale-for-large-organizations-593930ed10cd",
     "category": "articles"
+  },
+  {
+    "name": "Component, colocation, composition: A note on the state of React",
+    "url": "https://bobaekang.com/blog/component-colocation-composition/",
+    "category": "articles"
+  },
+  {
+    "name": "Mythbusting DOM: Was DOM Invented Alongside HTML?",
+    "url": "https://dev.to/babichweb/mythbusting-dom-was-dom-invented-alongside-html-3fme",
+    "category": "articles"
   }
 ]
