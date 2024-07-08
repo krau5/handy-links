@@ -25,7 +25,7 @@
     "category": "learning"
   },
   {
-    "name": "OpenDevin",
+    "name": "OpenDevin - Code Less, Make More",
     "url": "https://github.com/OpenDevin/OpenDevin",
     "category": "tools"
   },
@@ -85,7 +85,7 @@
     "category": "articles"
   },
   {
-    "name": "Dokploy",
+    "name": "Dokploy - open-source alternative to Vercel, Netlify and Heroku",
     "url": "https://github.com/Dokploy/dokploy",
     "category": "tools"
   },
@@ -95,42 +95,42 @@
     "category": "learning"
   },
   {
-    "name": "urql",
+    "name": "urql - highly customisable and versatile GraphQL client",
     "url": "https://github.com/urql-graphql/urql",
     "category": "tools"
   },
   {
-    "name": "Mithril",
+    "name": "Mithril - frontend framework with VDOM support",
     "url": "https://github.com/MithrilJS/mithril.js",
     "category": "tools"
   },
   {
-    "name": "Llama 2",
+    "name": "Ollama 2 - Get up and running with large language models",
     "url": "https://github.com/ollama/ollama",
     "category": "tools"
   },
   {
-    "name": "XState",
+    "name": "XState - state management solution with zero dependencies",
     "url": "https://github.com/statelyai/xstate",
     "category": "tools"
   },
   {
-    "name": "Qwik",
+    "name": "Qwik - make instant-loading web apps, without effort",
     "url": "https://github.com/BuilderIO/qwik",
     "category": "tools"
   },
   {
-    "name": "Mitosis",
+    "name": "Mitosis - write components once, run everywhere",
     "url": "https://github.com/BuilderIO/mitosis",
     "category": "tools"
   },
   {
-    "name": "Nue",
+    "name": "Nue - a content first web framework. Perfect for UX devs",
     "url": "https://github.com/nuejs/nue",
     "category": "tools"
   },
   {
-    "name": "Zustand",
+    "name": "Zustand - state management solution using simplified flux principles",
     "url": "https://github.com/pmndrs/zustand",
     "category": "tools"
   },
@@ -148,5 +148,15 @@
     "name": "Mythbusting DOM: Was DOM Invented Alongside HTML?",
     "url": "https://dev.to/babichweb/mythbusting-dom-was-dom-invented-alongside-html-3fme",
     "category": "articles"
+  },
+  {
+    "name": "Telegram Mini Apps SDK",
+    "url": "https://github.com/Telegram-Mini-Apps/telegram-apps",
+    "category": "tools"
+  },
+  {
+    "name": "Zed - high performance code editor from the creators of Atom",
+    "url": "https://zed.dev/",
+    "category": "tools"
   }
 ]
