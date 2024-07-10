@@ -45,11 +45,6 @@
     "category": "articles"
   },
   {
-    "name": "12 tips from a mid-level developer",
-    "url": "https://dev.to/abbeyperini/12-tips-from-a-mid-level-developer-29bk",
-    "category": "articles"
-  },
-  {
     "name": "Session-Based vs. Token-Based Authentication: Which is better?",
     "url": "https://dev.to/fidalmathew/session-based-vs-token-based-authentication-which-is-better-227o",
     "category": "articles"
@@ -158,5 +153,10 @@
     "name": "Zed - high performance code editor from the creators of Atom",
     "url": "https://zed.dev/",
     "category": "tools"
+  },
+  {
+    "name": "How I stopped my procrastination: Insights into developer mindset",
+    "url": "https://dev.to/middleware/how-i-stopped-my-procrastination-insights-into-developer-mindset-23hl",
+    "category": "articles"
   }
 ]
