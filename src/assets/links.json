@@ -158,5 +158,95 @@
     "name": "How I stopped my procrastination: Insights into developer mindset",
     "url": "https://dev.to/middleware/how-i-stopped-my-procrastination-insights-into-developer-mindset-23hl",
     "category": "articles"
+  },
+  {
+    "name": "Netflix",
+    "url": "https://jobs.netflix.com/search",
+    "category": "careers"
+  },
+  {
+    "name": "Zoolatech",
+    "url": "https://zoolatech.com/work-career.html",
+    "category": "careers"
+  },
+  {
+    "name": "SoftServe",
+    "url": "https://career.softserveinc.com/en-us/vacancies",
+    "category": "careers"
+  },
+  {
+    "name": "Affirm",
+    "url": "https://www.affirm.com/careers#openings",
+    "category": "careers"
+  },
+  {
+    "name": "AgileEngine",
+    "url": "https://www.join.agileengine.com/",
+    "category": "careers"
+  },
+  {
+    "name": "Splunk",
+    "url": "https://www.splunk.com/en_us/careers/search-jobs.html",
+    "category": "careers"
+  },
+  {
+    "name": "Atlassian",
+    "url": "https://www.atlassian.com/company/careers/all-jobs",
+    "category": "careers"
+  },
+  {
+    "name": "EPAM",
+    "url": "https://www.epam.com/careers/job-listings",
+    "category": "careers"
+  },
+  {
+    "name": "N-iX",
+    "url": "https://careers.n-ix.com/jobs/",
+    "category": "careers"
+  },
+  {
+    "name": "Andersen Lab",
+    "url": "https://people.andersenlab.com/vacancies",
+    "category": "careers"
+  },
+  {
+    "name": "Wix",
+    "url": "https://careers.wix.com/positions",
+    "category": "careers"
+  },
+  {
+    "name": "TON",
+    "url": "https://jobs.ton.org/jobs",
+    "category": "careers"
+  },
+  {
+    "name": "Intellias",
+    "url": "https://career.intellias.com/vacancies/search/",
+    "category": "careers"
+  },
+  {
+    "name": "GlobalLogic",
+    "url": "https://www.globallogic.com/careers/",
+    "category": "careers"
+  },
+  {
+    "name": "IBM",
+    "url": "https://www.ibm.com/careers/search",
+    "category": "careers"
+  },
+  {
+    "name": "Zendesk",
+    "url": "https://jobs.zendesk.com/us/en/search-results",
+    "category": "careers"
+  },
+  {
+    "name": "Beeper",
+    "url": "https://beeper.notion.site/Jobs-Beeper-ff5da486daed462ebfc4b21eacc48cae",
+    "category": "careers"
+  },
+  {
+    "name": "Cisco",
+    "url": "https://jobs.cisco.com/jobs/SearchJobs/",
+    "category": "careers"
   }
 ]

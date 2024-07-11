@@ -4,7 +4,7 @@ import LinksList from './components/LinksList.vue';
 import Categories from './components/Categories.vue';
 import Cover from './components/Cover.vue';
 
-const categories = ['all', 'learning', 'tools', 'articles'];
+const categories = ['all', 'learning', 'tools', 'articles', 'careers'];
 
 const category = ref('all');
 
