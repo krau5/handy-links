@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import { computed } from 'vue';
-import links from '../assets/links.json';
+import rawLinks from '../assets/links.json';
 
 type Props = {
   sortByCategory: string;
@@ -10,10 +10,10 @@ const props = defineProps<Props>();
 
 const sortedLinks = computed(() => {
   if (props.sortByCategory === 'all') {
-    return links;
+    return rawLinks.filter((link) => link.category !== 'careers');
   }
 
-  return links.filter((link) => link.category === props.sortByCategory);
+  return rawLinks.filter((link) => link.category === props.sortByCategory);
 });
 </script>
 

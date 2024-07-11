@@ -25,7 +25,7 @@
     "category": "learning"
   },
   {
-    "name": "OpenDevin",
+    "name": "OpenDevin - Code Less, Make More",
     "url": "https://github.com/OpenDevin/OpenDevin",
     "category": "tools"
   },
@@ -42,11 +42,6 @@
   {
     "name": "8 mental anti-patterns preventing you from becoming a 10x software developer",
     "url": "https://medium.com/thestartuplifer/8-mental-anti-patterns-preventing-you-from-becoming-a-10x-software-developer-part-1-94f9478adf8e",
-    "category": "articles"
-  },
-  {
-    "name": "12 tips from a mid-level developer",
-    "url": "https://dev.to/abbeyperini/12-tips-from-a-mid-level-developer-29bk",
     "category": "articles"
   },
   {
@@ -85,7 +80,7 @@
     "category": "articles"
   },
   {
-    "name": "Dokploy",
+    "name": "Dokploy - open-source alternative to Vercel, Netlify and Heroku",
     "url": "https://github.com/Dokploy/dokploy",
     "category": "tools"
   },
@@ -95,42 +90,42 @@
     "category": "learning"
   },
   {
-    "name": "urql",
+    "name": "urql - highly customisable and versatile GraphQL client",
     "url": "https://github.com/urql-graphql/urql",
     "category": "tools"
   },
   {
-    "name": "Mithril",
+    "name": "Mithril - frontend framework with VDOM support",
     "url": "https://github.com/MithrilJS/mithril.js",
     "category": "tools"
   },
   {
-    "name": "Llama 2",
+    "name": "Ollama 2 - Get up and running with large language models",
     "url": "https://github.com/ollama/ollama",
     "category": "tools"
   },
   {
-    "name": "XState",
+    "name": "XState - state management solution with zero dependencies",
     "url": "https://github.com/statelyai/xstate",
     "category": "tools"
   },
   {
-    "name": "Qwik",
+    "name": "Qwik - make instant-loading web apps, without effort",
     "url": "https://github.com/BuilderIO/qwik",
     "category": "tools"
   },
   {
-    "name": "Mitosis",
+    "name": "Mitosis - write components once, run everywhere",
     "url": "https://github.com/BuilderIO/mitosis",
     "category": "tools"
   },
   {
-    "name": "Nue",
+    "name": "Nue - a content first web framework. Perfect for UX devs",
     "url": "https://github.com/nuejs/nue",
     "category": "tools"
   },
   {
-    "name": "Zustand",
+    "name": "Zustand - state management solution using simplified flux principles",
     "url": "https://github.com/pmndrs/zustand",
     "category": "tools"
   },
@@ -138,5 +133,120 @@
     "name": "Frontend Architecture at Scale for Large Organizations",
     "url": "https://medium.com/swlh/frontend-architecture-in-scale-for-large-organizations-593930ed10cd",
     "category": "articles"
+  },
+  {
+    "name": "Component, colocation, composition: A note on the state of React",
+    "url": "https://bobaekang.com/blog/component-colocation-composition/",
+    "category": "articles"
+  },
+  {
+    "name": "Mythbusting DOM: Was DOM Invented Alongside HTML?",
+    "url": "https://dev.to/babichweb/mythbusting-dom-was-dom-invented-alongside-html-3fme",
+    "category": "articles"
+  },
+  {
+    "name": "Telegram Mini Apps SDK",
+    "url": "https://github.com/Telegram-Mini-Apps/telegram-apps",
+    "category": "tools"
+  },
+  {
+    "name": "Zed - high performance code editor from the creators of Atom",
+    "url": "https://zed.dev/",
+    "category": "tools"
+  },
+  {
+    "name": "How I stopped my procrastination: Insights into developer mindset",
+    "url": "https://dev.to/middleware/how-i-stopped-my-procrastination-insights-into-developer-mindset-23hl",
+    "category": "articles"
+  },
+  {
+    "name": "Netflix",
+    "url": "https://jobs.netflix.com/search",
+    "category": "careers"
+  },
+  {
+    "name": "Zoolatech",
+    "url": "https://zoolatech.com/work-career.html",
+    "category": "careers"
+  },
+  {
+    "name": "SoftServe",
+    "url": "https://career.softserveinc.com/en-us/vacancies",
+    "category": "careers"
+  },
+  {
+    "name": "Affirm",
+    "url": "https://www.affirm.com/careers#openings",
+    "category": "careers"
+  },
+  {
+    "name": "AgileEngine",
+    "url": "https://www.join.agileengine.com/",
+    "category": "careers"
+  },
+  {
+    "name": "Splunk",
+    "url": "https://www.splunk.com/en_us/careers/search-jobs.html",
+    "category": "careers"
+  },
+  {
+    "name": "Atlassian",
+    "url": "https://www.atlassian.com/company/careers/all-jobs",
+    "category": "careers"
+  },
+  {
+    "name": "EPAM",
+    "url": "https://www.epam.com/careers/job-listings",
+    "category": "careers"
+  },
+  {
+    "name": "N-iX",
+    "url": "https://careers.n-ix.com/jobs/",
+    "category": "careers"
+  },
+  {
+    "name": "Andersen Lab",
+    "url": "https://people.andersenlab.com/vacancies",
+    "category": "careers"
+  },
+  {
+    "name": "Wix",
+    "url": "https://careers.wix.com/positions",
+    "category": "careers"
+  },
+  {
+    "name": "TON",
+    "url": "https://jobs.ton.org/jobs",
+    "category": "careers"
+  },
+  {
+    "name": "Intellias",
+    "url": "https://career.intellias.com/vacancies/search/",
+    "category": "careers"
+  },
+  {
+    "name": "GlobalLogic",
+    "url": "https://www.globallogic.com/careers/",
+    "category": "careers"
+  },
+  {
+    "name": "IBM",
+    "url": "https://www.ibm.com/careers/search",
+    "category": "careers"
+  },
+  {
+    "name": "Zendesk",
+    "url": "https://jobs.zendesk.com/us/en/search-results",
+    "category": "careers"
+  },
+  {
+    "name": "Beeper",
+    "url": "https://beeper.notion.site/Jobs-Beeper-ff5da486daed462ebfc4b21eacc48cae",
+    "category": "careers"
+  },
+  {
+    "name": "Cisco",
+    "url": "https://jobs.cisco.com/jobs/SearchJobs/",
+    "category": "careers"
   }
 ]
