@@ -145,6 +145,11 @@
     "category": "articles"
   },
   {
+    "name": "Mythbusting DOM: Is DOM the same as HTML?",
+    "url": "https://dev.to/babichweb/mythbusting-dom-is-dom-the-same-as-html-561f",
+    "category": "articles"
+  },
+  {
     "name": "Telegram Mini Apps SDK",
     "url": "https://github.com/Telegram-Mini-Apps/telegram-apps",
     "category": "tools"
@@ -248,5 +253,30 @@
     "name": "Cisco",
     "url": "https://jobs.cisco.com/jobs/SearchJobs/",
     "category": "careers"
+  },
+  {
+    "name": "Y Combinator",
+    "url": "https://www.workatastartup.com/",
+    "category": "careers"
+  },
+  {
+    "name": "Total TypeScript Essentials",
+    "url": "https://www.totaltypescript.com/books/total-typescript-essentials",
+    "category": "learning"
+  },
+  {
+    "name": "Martin Fowler: Given When Then",
+    "url": "https://martinfowler.com/bliki/GivenWhenThen.html",
+    "category": "learning"
+  },
+  {
+    "name": "TDD Guided by Zombies",
+    "url": "https://blog.wingman-sw.com/tdd-guided-by-zombies",
+    "category": "learning"
+  },
+  {
+    "name": "Vector - lightweight, ultra-fast tool for building observability pipelines",
+    "url": "https://vector.dev/",
+    "category": "tools"
   }
 ]
