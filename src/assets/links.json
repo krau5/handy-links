@@ -278,5 +278,15 @@
     "name": "Vector - lightweight, ultra-fast tool for building observability pipelines",
     "url": "https://vector.dev/",
     "category": "tools"
+  },
+  {
+    "name": "Cursor - The AI Code Editor",
+    "url": "https://www.cursor.com/",
+    "category": "tools"
+  },
+  {
+    "name": "Martin Fowler: Micro Frontends",
+    "url": "https://martinfowler.com/articles/micro-frontends.html",
+    "category": "learning"
   }
 ]
