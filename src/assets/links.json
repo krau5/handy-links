@@ -288,5 +288,15 @@
     "name": "Martin Fowler: Micro Frontends",
     "url": "https://martinfowler.com/articles/micro-frontends.html",
     "category": "learning"
+  },
+  {
+    "name": "Serverpod - The missing server for Flutter",
+    "url": "https://serverpod.dev/",
+    "category": "tools"
+  },
+  {
+    "name": "Impressit",
+    "url": "https://impressit.io/careers",
+    "category": "careers"
   }
 ]
