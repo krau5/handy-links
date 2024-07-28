@@ -303,5 +303,10 @@
     "name": "JSConf Budapest 2024",
     "url": "https://www.youtube.com/playlist?list=PL37ZVnwpeshEczPCbFGVGd-hj1DR7_SKy",
     "category": "learning"
+  },
+  {
+    "name": "Zod - TypeScript-first schema validation with static type inference",
+    "url": "https://github.com/colinhacks/zod",
+    "category": "tools"
   }
 ]
