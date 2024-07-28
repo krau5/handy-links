@@ -308,5 +308,10 @@
     "name": "Zod - TypeScript-first schema validation with static type inference",
     "url": "https://github.com/colinhacks/zod",
     "category": "tools"
+  },
+  {
+    "name": "Arc - Your browser, your way",
+    "url": "https://arc.net/",
+    "category": "tools"
   }
 ]
