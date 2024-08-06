@@ -298,5 +298,20 @@
     "name": "Impressit",
     "url": "https://impressit.io/careers",
     "category": "careers"
+  },
+  {
+    "name": "JSConf Budapest 2024",
+    "url": "https://www.youtube.com/playlist?list=PL37ZVnwpeshEczPCbFGVGd-hj1DR7_SKy",
+    "category": "learning"
+  },
+  {
+    "name": "Zod - TypeScript-first schema validation with static type inference",
+    "url": "https://github.com/colinhacks/zod",
+    "category": "tools"
+  },
+  {
+    "name": "Arc - Your browser, your way",
+    "url": "https://arc.net/",
+    "category": "tools"
   }
 ]
