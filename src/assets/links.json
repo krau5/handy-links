@@ -313,5 +313,20 @@
     "name": "Arc - Your browser, your way",
     "url": "https://arc.net/",
     "category": "tools"
+  },
+  {
+    "name": "Juntao Qiu: Modularizing React Applications with Established UI Patterns",
+    "url": "https://martinfowler.com/articles/modularizing-react-apps.html",
+    "category": "learning"
+  },
+  {
+    "name": "Patterns.dev - Improve how you architect webapps",
+    "url": "https://www.patterns.dev/",
+    "category": "learning"
+  },
+  {
+    "name": "A different way to think about typescript",
+    "url": "https://www.rob.directory/blog/a-different-way-to-think-about-typescript",
+    "category": "articles"
   }
 ]
